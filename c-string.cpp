@@ -1,16 +1,3 @@
-//****************************************************************************************************
-//     File:               Assignment6-1.cpp
-// 
-//     Student:            Anna Sargsyan
-// 
-//     Assignment:         Program #6 Part I
-// 
-//     Course Name:        Programming II
-// 
-//     Course Number:      COSC 1560-01
-// 
-//     Due:                October 9, 2023
-//
 //     This program asks the user to write a sentence and then counts how many words are there.
 //     
 //****************************************************************************************************
